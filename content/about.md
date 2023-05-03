@@ -13,3 +13,5 @@ I have been cursed with curiosity, and as a result you should expect to find wri
 
 I aim to follow the guidelines set out by my friend Goerge Orwell in his essay [Politics and the English Language](https://faculty.washington.edu/rsoder/EDLPS579/HonorsOrwellPoliticsEnglishLanguage.pdf), but most importantly I aim to follow his last guideline:
 > Break any of these rules sooner than say anything outright barbarous.
+
+You can find publications on my [Google Scholar](https://scholar.google.com/citations?user=DnLtmq0AAAAJ&hl=en) and [Orcid](https://orcid.org/my-orcid?orcid=0000-0002-4527-7578) accounts, and (some of my) code on my [Github](https://github.com/ieshghi).

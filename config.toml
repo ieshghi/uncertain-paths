@@ -1,4 +1,4 @@
-baseurl = "https://ieshghi.github.io/uncertain-paths/"
+baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
@@ -31,7 +31,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Iraj's Uncertain Paths"
-      logoHomeLink = "https://ieshghi.github.io/uncertain-paths/"
+      logoHomeLink = "/uncertain-paths/"
     # or
     #
     # path = "/img/favicon.svg"

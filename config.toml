@@ -15,7 +15,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Iraj's Uncertain Paths"
+    title = "Boxes and Squiggles"
     subtitle = "Iraj Eshghi's personal website"
     keywords = ""
     copyright = ""
@@ -30,7 +30,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "Iraj's Uncertain Paths"
+      logoText = "Boxes and Squiggles"
       logoHomeLink = "/uncertain-paths/"
     # or
     #

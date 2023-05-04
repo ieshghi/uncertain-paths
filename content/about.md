@@ -3,8 +3,6 @@ katex: true
 ---
 # Who am I?
 
-{{<image src="/img/deniro.gif" position="center">}}
-
 My name is **Iraj Eshghi**, and I'm a biophysicist. In particular I'm interested in building physical models of the genome.
 
 This is the site on which I will be posting my professional writings on biophysics, but also where I intend to write on whatever topics I am currently thinking about. 

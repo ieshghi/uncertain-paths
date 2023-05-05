@@ -4,7 +4,7 @@ You can find more info on my [Google Scholar](https://scholar.google.com/citatio
 
 ## 2023
 
-- Model chromatin flows: numerical analysis of linear and nonlinear hydrodynamics inside a sphere, **Eshghi**, Zidovska, Grosberg, *submitted*.
+- Model chromatin flows: numerical analysis of linear and nonlinear hydrodynamics inside a sphere, **Eshghi**, Zidovska, Grosberg, *submitted*, [arXiv](https://arxiv.org/abs/2305.02411).
 - Activity-driven phase transition causes coherent flows of chromatin, **Eshghi**, Zidovska, Grosberg, *in revisions*, [arXiv](https://arxiv.org/abs/2305.01052).
 
 ## 2022

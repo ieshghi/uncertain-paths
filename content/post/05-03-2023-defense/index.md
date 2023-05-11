@@ -2,7 +2,7 @@
 title = "I came I saw I defended"
 date = "2023-05-03"
 author = "Iraj"
-cover = "/committee.jpg"
+cover = "/committee_small.jpg"
 description = "A celebration of the completion of my thesis"
 coverCaption = "Committee members (those who were present) and I at the defense"
 useRelativeCover = true

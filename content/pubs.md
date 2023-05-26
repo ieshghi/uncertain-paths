@@ -1,6 +1,6 @@
 # Publications
 
-You can find more info on my [Google Scholar](https://scholar.google.com/citations?user=DnLtmq0AAAAJ&hl=en) and [Orcid](https://orcid.org/0000-0002-4527-7578) accounts.
+You can find more info on my [Google Scholar](https://scholar.google.com/citations?user=DnLtmq0AAAAJ&hl=en) and [Orcid](https://orcid.org/0000-0002-4527-7578) accounts. Feel free to contact me to request a copy of any of the publications below.
 
 ## 2023
 

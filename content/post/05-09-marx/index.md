@@ -20,6 +20,8 @@ Obviously LTV is in disagreement with the conventional economic concept of price
 
 Another context in which I was led to question LTV was when I was reading Piketty's [Capital in the 21st Century](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf) last year. In it he makes a point regarding the role of investments in the economy, and how rates of return on capital exist because capital "works" by providing infrastructure and machines, etc. This is also directly inconsistent with LTV, since the latter is fundamentally about *human labor*. Marx must have been thinking about automation in his work, so how are rates of return on capital accounted for in Marxist theory? (I am not going to talk about the Tendency of Rate of Profit to Fall here, that's one for a different post)
 
+*Addendum, added July 2023:* I have since learned a bit more about this. G.A. Cohen, in *Karl Marx's Theory of History: A Defence* makes a distinction which is useful to elucidate the above. He warns the reader not to confuse the form of an economic structure with its content. More specifically, he warns that we should not conflate capital with means of production, as I did in the paragraph above. In general, it is necessary to provide machines and materials for any work to be performed, but it is *only under capitalism* that these necessary means of production take the form of capital, which is just frozen excess labor time. So in fact Piketty's account above is consistent with LTV, provided we remember that "investments" are only a meaningful form for means of production to take under a specific state of organization of the economy, namely capitalism. 
+
 ## Automation
 
 *A totally fictional exchange loosely representing a piece of conversation:*

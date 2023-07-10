@@ -15,4 +15,4 @@ I aim to follow the guidelines set out by my friend George Orwell in his essay [
 
 Publications are on my [Google Scholar](https://scholar.google.com/citations?user=DnLtmq0AAAAJ&hl=en) and [Orcid](https://orcid.org/0000-0002-4527-7578) accounts, and (some of my) code is on [Github](https://github.com/ieshghi).
 
-You can **contact me** at iraj.eshghi at nyu dot edu
+You can **contact me** at ieshghi at nygenome dot edu

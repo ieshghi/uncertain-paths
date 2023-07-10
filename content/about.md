@@ -3,7 +3,7 @@ katex: true
 ---
 # Who am I?
 
-My name is **Iraj Eshghi**, and I'm a biophysicist. In particular I'm interested in building physical models of the genome.
+My name is **Iraj Eshghi**, and I'm a biophysicist. In particular I'm interested in building physical models of the genome. I am currently working as a Postdoctoral Researcher at the New York Genome Center, supervised by Profs. Marcin Imielinski and Gamze Gursoy.
 
 Welcome to my website! You can find my scientific articles under the [publications](/pubs) page. Elsewhere on this site, I intermittently post about topics which I'm currently learning or thinking about.  
 In principle, I would like this site to serve as a venue for me to [learn in public](https://notes.nicolevanderhoeven.com/Learning+in+public), and hopefully my partially digested thoughts will help others learn as well.
